@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HoangTangKhai-Ktra2-Bai2</string>
+    <string-array name="Nganh">
+        <item>English</item>
+        <item>CNTT</item>
+        <item>Kinh tế</item>
+        <item>Truyền thông</item>
+    </string-array>
+</resources>
